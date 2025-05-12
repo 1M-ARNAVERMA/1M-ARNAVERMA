@@ -19,7 +19,7 @@
 </div>
 
 ###
-
+<h3 align="center">----- My Contributions -----</h3>
 <div align="center">
   
   ![snake gif](https://github.com/1M-ARNAVERMA/1M-ARNAVERMA/blob/output/github-snake-dark.svg)
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/arnav-verma-084331192/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
