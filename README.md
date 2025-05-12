@@ -57,7 +57,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/1M-ARNAVERMA/1M-ARNAVERMA/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  
+  ![snake gif](https://github.com/1M-ARNAVERMA/1M-ARNAVERMA/blob/output/github-snake-dark.svg)
+</div>
 
 ###
 
