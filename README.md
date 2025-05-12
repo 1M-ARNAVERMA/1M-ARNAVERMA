@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my Github Profile<br><br>Currently I am working on a crazy AI assistant <br><br>Along with that I have worked as an AI developer Intern in companies like Personifwy.<br>I have also done some cool projects which you can see on my profile.</p>
+<p align="left">Welcome to my Github Profile<br><br>Currently I am working on a crazy AI assistant !! <br><br>Along with that I have worked as an AI developer Intern in companies like Personifwy.<br>I have also done some cool projects which you can see on my profile.</p>
 
 ###
 
